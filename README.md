@@ -16,6 +16,8 @@
   
 
 - ⚡ Fun fact: I love capybaras  
+
+- :love_letter: Email for contact: medeiroshs@hotmail.com
   
 
 <br/>  
