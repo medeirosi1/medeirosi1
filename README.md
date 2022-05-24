@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Thiago Medeiros, a student developer in Trybe 👨‍💻 🚀</div>  
+### <div align="center">I'm Thiago Medeiros, a student developer at Trybe 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently student on [Trybe](https://www.betrybe.com/)  
+- 🔭 I’m currently student at [Trybe](https://www.betrybe.com/)  
   
 
 - 🌱 I’m currently learning React, Bootstrap, Docker and Data-base😑  
