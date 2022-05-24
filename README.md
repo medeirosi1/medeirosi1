@@ -6,7 +6,7 @@
 ### <div align="center">I'm Thiago Medeiros, a student developer in Trybe 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Working](Working)  
+- 🔭 I’m currently student on [Trybe](https://www.betrybe.com/)  
   
 
 - 🌱 I’m currently learning React, Bootstrap, Docker and Data-base😑  
