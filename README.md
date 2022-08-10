@@ -9,7 +9,7 @@
 - 🔭 I’m currently student at [Trybe](https://www.betrybe.com/)  
   
 
-- 🌱 I’m currently learning React, Bootstrap, Docker and Data-base😑  
+- 🌱 I’m currently learning Node, POO, SOLID and MongoDB.  
   
 
 - ❓ Ask me about anything related animes and related technologies  
