@@ -93,7 +93,7 @@
 ## Github Stats  
 <div>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=medeiros1&show_icons=true&theme=radical" />
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros1&layout=compact&theme=radical" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros1&layout=compact" />
 </div>
 
 <br/>    
