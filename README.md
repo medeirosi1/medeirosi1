@@ -9,7 +9,7 @@
 - 🔭 I’m currently student at [Trybe](https://www.betrybe.com/)  
   
 
-- 🌱 I’m currently learning Node, POO, SOLID and MongoDB.  
+- 🌱 I’m currently learning Node and AWS.  
   
 
 - ❓ Ask me about anything related animes and related technologies  
@@ -92,8 +92,8 @@
 
 ## Github Stats  
 <div style:"display: inline_block" align="center">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=medeirosi1&show_icons=true&count_private=true&hide_border=true" />
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosi1&layout=compact&langs_count=5" />
+  <img align="center" width="25%" src="https://github-readme-stats.vercel.app/api?username=medeirosi1&show_icons=true&count_private=true&hide_border=true" />
+  <img align="center" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosi1&layout=compact&langs_count=5" />
 </div>
 
 <br/>    
