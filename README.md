@@ -93,7 +93,7 @@
 ## Github Stats  
 <div style:"display: inline_block" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=medeirosi1&show_icons=true&count_private=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros1&layout=compact&langs_count=5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeirosi1&layout=compact&langs_count=5" />
 </div>
 
 <br/>    
