@@ -9,7 +9,7 @@
 - 🔭 I’m currently student at [Trybe](https://www.betrybe.com/)  
   
 
-- 🌱 I’m currently learning Node and AWS.  
+- 🌱 I’m currently learning Python and AWS.  
   
 
 - ❓ Ask me about anything related animes and related technologies  
